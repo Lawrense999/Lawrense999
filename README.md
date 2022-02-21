@@ -1,3 +1,4 @@
+[![Lawrense999's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lawrense999)](https://github.com/Lawrense999/github-readme-stats)
 - 👋 Hi, I’m @Lawrense999
 - 👀 I’m interested in ... singing, doing badminton, study coding(superhard to me), studying English, studying finance, studying history, etc...
 - 🌱 I’m currently learning ... just coding, and except coding, I learn myself.
